@@ -43,7 +43,8 @@ public class TestCase {
       
       WebElement value = driver.findElement(By.xpath("//input[@id='add-to-cart-button']"));
       value.click();
-      
+      // this is just a comment for git push
+    //  this one is too
       
       
       
