@@ -21,7 +21,7 @@ public class XpathPractice {
 		 driver.get("https://tekschool.us/");
 		 //driver.findElement(By name); 
 		 String CurrentURL= driver.getCurrentUrl();
-
+// this is practice for git pull
 	}
 
 }
